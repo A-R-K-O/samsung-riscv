@@ -20,7 +20,7 @@ This RISC-V Internship using VSDSquadron Mini is based on RISC-V architecture an
 
   ## Photos
   ### Photo 1
-  ![Description of Photo 1](path/to/photo1.jpg)
+  ![Description of Photo 1]("C:\Users\arkap\OneDrive\Desktop\c based.png")
 
   ### Photo 2
   ![Description of Photo 2](path/to/photo2.jpg)
